@@ -1,45 +1,56 @@
-## About ##
-
-|            |                           |  
-| ---------- | ------------------------- |  
-| Title:     | @My_Project_Title@        |  
-| Author:    | @My_Project_Author@       |  
-| Date:      | @My_Project_Revised_Date@ |  
-| Copyright: | @My_Project_Copyright@    |  
-| Version:   | @My_Project_Version@      |  
+end
+stop
+void
+delete
+end
 
 
-## Introduction ##
-
-[Markdown] is a simple markup language used to convert plain text into HTML. 
-
-[MultiMarkdown] is a derivative of Markdown that adds new syntax features,
-such as footnotes, tables, and metadata. Additionally, it offers mechanisms to
-convert plain text into LaTeX in addition to HTML. 
 
 
-## Background ##
 
-MultiMarkdown started as a Perl script, which was modified from the original
-Markdown.pl.
 
-MultiMarkdown v3 (aka 'peg-multimarkdown') was based on John MacFarlane's
-[peg-markdown].  It used a parsing expression grammar (PEG), and was written
-in C in order to compile on almost any operating system.  Thanks to work by
-Daniel Jalkut, MMD v3 was built so that it didn't have any external library
-requirements.
 
-MultiMarkdown v4 was basically a complete rewrite of v3.  It used the same
-basic PEG for parsing (Multi)Markdown text, but otherwise was almost
-completely rebuilt.
 
-MultiMarkdown v5 is basically the same code as v4, but the project has been
-restructured:
 
-*	It is built using my [c-template] project boilerplate -- I welcome
-	suggestions and ideas for improvement about this.
-*	It is designed with the CMake build system, rather than just
-	a Makefile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
