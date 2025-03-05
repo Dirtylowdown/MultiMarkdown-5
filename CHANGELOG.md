@@ -1,66 +1,90 @@
-# MultiMarkdown Change Log #
-
-## [5.4.0] - 2016-08-05
-
-*	ADDED: Add email address to cpack settings (addresses #31)
-*	ADDED: Move static library options to separate make target
-*	CHANGED: Increase list of syntax structures that are evaluated for abbreviations (Thanks, David!)
-*	CHANGED: Update README
-*	FIXED: Avoids problem mentioned on github (#30), but doesn't actually solve it. Any help appreciated!
-*	FIXED: Fix crash with empty table label
+end
+delete
+void
+end 
+stop
 
 
-## [5.3.0] - 2016-06-08 ##
-
-*	CHANGED: Update test suite
-*	FIXED: Don't allow math spans inside strong/emph
-*	FIXED: Fix additional edge case in emph/strong parser
-*	FIXED: Fix slow parsing of complex strong/emph (Fixes #18)
-*	FIXED: Improve accuracy and performance of strong/emph
-*	FIXED: Improve performance
 
 
-## [5.2.0] - 2016-03-16 ##
-
-*	ADDED: Add additional test cases
-*	ADDED: Add support for 'HTML FOOTER' metadata -- appended at very end of HTML documents (after footnotes)
-*	CHANGED: Allow nested strong/emph spans (though effect of output is not defined for all formats)
-*	CHANGED: Update Math test suite
-*	CHANGED: Update documentation for 5.1.0
-*	CHANGED: Update documentation for HTML Footer metadata
-*	CHANGED: Update test suite
-*	CHANGED: recursive support for CriticMarkup syntax (e.g. an addition can be included inside a substitution).
-*	FIXED: Fix bug in handling of '$' delimited math
-*	FIXED: Improve accuracy of strong/emph parsing;
-*	FIXED: Remove debugging statement in recent CriticMarkup changes
 
 
-## [5.1.0] - 2016-02-22 ##
-
-*	ADDED: Add script to build drag and drop apps on OS X
-*	ADDED: Beginning code for public header file support; ADDED: Beginning configuration for OS X Bundle/Framework targets
-*	ADDED: Include support for Xcode libraries to be iOS compatible
-*	CHANGED: Update copyright info for 2016
-*	CHANGED: Update test suite
-*	FIXED: Allow ATX Headers inside lists
-*	FIXED: Allow 'naturally' aligned table cells like MMD 2 allowed
-*	FIXED: Allow metadata variables inside links (e.g. [[%foo]][bar])
-*	FIXED: Allow newline inside strong/emph (Fixes #10)
-*	FIXED: Change handling of version.h file for deprecated make to keep it separate from cmake alternative
-*	FIXED: Don't delete src/version.h
-*	FIXED: Fix problem with strong/emph matching incorrectly
-*	FIXED: Fix regression in list/heading fix that was overeager
-*	FIXED: Include 'fake' version.h for make deprecate
-*	FIXED: Include additional standard metadata keys in the list to *not* be included in HTML headers
-*	FIXED: Remove unneeded install directive; FIXED: Fix public header install prefix (I think)
-*	FIXED: Update MMD test suite for recent table alignment change
-*	FIXED: fix 'make deprecate' so that it truly doesn't require cmake
-*	FIXED: Improve tight vs loose list detection with unusual setext headers
-*	NOTE: Fixed git clone instructions in documentation
-*	NOTE: Update test suite
 
 
-## [5.0.1] - 2015-12-01 ##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 *	IMPORTANT: Fix major error in last Makefile! (Only in build branch for a few minutes)
 *	ADDED: Improve empty list item detection in ODF output
