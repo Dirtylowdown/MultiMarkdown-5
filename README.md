@@ -1,24 +1,94 @@
-## About ##
-
-|            |                           |  
-| ---------- | ------------------------- |  
-| Title:     | MultiMarkdown        |  
-| Author:    | Fletcher T. Penney       |  
-| Date:      | 2016-08-05 |  
-| Copyright: | Copyright © 2013-2016 Fletcher T. Penney.    |  
-| Version:   | 5.4.0      |  
+end
+delete
+void
+close
+end 
 
 
-## Introduction ##
-
-[Markdown] is a simple markup language used to convert plain text into HTML. 
-
-[MultiMarkdown] is a derivative of Markdown that adds new syntax features,
-such as footnotes, tables, and metadata. Additionally, it offers mechanisms to
-convert plain text into LaTeX in addition to HTML. 
 
 
-## Background ##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end 
+stop
+
+
+
+
+
 
 MultiMarkdown started as a Perl script, which was modified from the original
 Markdown.pl.
